@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: WebViewPage(url: 'https://www.westfield.com/poland/arkadia/sklepy'),
+      home: WebViewPage(url: 'https://www.guess.eu/pl-pl'),
       // home: WebViewPage(url: 'https://test-receipt-scanner.firebaseapp.com'),
       // home: WebViewPage(url: 'https://flutter.dev/'),
     );
